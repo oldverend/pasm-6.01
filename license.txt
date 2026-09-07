@@ -1,5 +1,3 @@
-MIT License
-
 Copyright (c) 2026 hehold_5
 
 PASM may be used and distributed free of charge.
