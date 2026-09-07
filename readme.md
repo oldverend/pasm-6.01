@@ -141,7 +141,7 @@ PASM **не является прямой заменой NASM, FASM или MASM*
 
 ## Лицензия
 
-Проект распространяется под лицензией **hehold_5**.
+Лицензия проекта находится в файле license.txt в репозитории с путём https://github.com/oldverend/pasm-6.01/edit/main/license.txt
 
 ## Автор hehold_5
 
